@@ -2,13 +2,23 @@
 
 ![Downloads](https://img.shields.io/badge/Downloads-3.7k%2B-brightgreen) ![Happy Users](https://img.shields.io/badge/Happy%20Users-2.5k%2B-blue) ![Version](https://img.shields.io/badge/Version-v1-orange) ![By Skyblockers For Skyblockers](https://img.shields.io/badge/By%20Skyblockers,-For%20Skyblockers!-darkgreen)
 
-## 📚 Table of Contents
-- [✨ What's New?](#-whats-new-in-jooonaddons)
-- [🛠️ Installation Guide](#installation-guide-for-forge-version-189)
-- [🎥 Previews](#previews)
-- [❓ FAQ](#some-frequently-asked-questions-and-answers)
-- [⭐ Support](#-support-the-project)
-
+<table>
+  <tr>
+    <td>
+      <h2>📚 Table of Contents</h2>
+      <ul>
+        <li><a href="#-whats-new-in-jooonaddons">✨ What's New?</a></li>
+        <li><a href="#installation-guide-for-forge-version-189">🛠️ Installation Guide</a></li>
+        <li><a href="#previews">🎥 Previews</a></li>
+        <li><a href="#some-frequently-asked-questions-and-answers">❓ FAQ</a></li>
+        <li><a href="#-support-the-project">⭐ Support</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://cdn.discordapp.com/attachments/1318387121777807430/1318407027294470174/ca96dbfa-060c-4bf6-8f00-b997ab093109.jpg?ex=676235ba&is=6760e43a&hm=4ec338f988b0f553bef81bd57a30d8ca87ac8218019e7dc2083321207344145e&" width="400" alt="Block Image">
+    </td>
+  </tr>
+</table>
 
 ______________________________________________
 ## **✨ What's new in JooonAddons?**
