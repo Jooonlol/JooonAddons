@@ -22,7 +22,7 @@ ______________________________________________
  🎵 **Melody:**
 - 🎶 Also entirely reworked the module, song selection and click mode (regular/pingless) are now fully integrated and auto selects based on the situation!
 _____________________________________________
-## **🙋‍♂️ Installation guide, for Forge version 1.8.9:**
+# **🙋‍♂️ Installation guide, for Forge version 1.8.9:**
 
 - #1, Download the mod from this github repository. To download the Mod simply click the JooonAddons [v1].jar file above once and then the download icon, which says download raw.
 > DIRECT LINK: [DOWNLOAD](https://github.com/Jooonlol/JooonAddons/raw/refs/heads/main/JooonAddons%20%5Bv1%5D.jar)
@@ -34,7 +34,7 @@ _____________________________________________
 **Forge 1.8.9 Installer (To use the Mod):** https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html
 _____________________________________________
 
-## **🎮 Previews:** *you may need to allow some time for the GIFs to load*
+# **🎮 Previews:** *you may need to allow some time for the GIFs to load*
 
 <details>
   <summary>JooonAddons</summary>
@@ -84,7 +84,7 @@ _____________________________________________
 </details>
 _____________________________________________
 
-## **❓Some Frequently asked questions and answers:**
+# **❓Some Frequently asked questions and answers:**
 
 - Q: Is there a video preview?
 > A: Yes! Though I'm yet to make a preview on JooonAddons, but since functionality is the same, you can view both of the older videos:
