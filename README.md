@@ -1,3 +1,5 @@
+Looking for **Melody Mod** or **DojoHelper**? You're at the right place!
+
 **Welcome to the GitHub page for Jooon Addons! DojoHelper and MelodyMod has moved into 1 unified module!**
 
 ![Downloads](https://img.shields.io/badge/Downloads-3.7k%2B-brightgreen) ![Happy Users](https://img.shields.io/badge/Happy%20Users-2.5k%2B-blue) ![Version](https://img.shields.io/badge/Version-v1-orange) ![By Skyblockers For Skyblockers](https://img.shields.io/badge/By%20Skyblockers,-For%20Skyblockers!-darkgreen)
